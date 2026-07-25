@@ -12,4 +12,4 @@ to uncover patterns that matter in supply chain and healthcare operations.
 ## 🛠️ Tools
 - **Language:** SQL, Python
 - **Database:** MySQL
-- Visualization:** Tableau
+- **Visualization:** Tableau
