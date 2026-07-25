@@ -6,7 +6,7 @@ to uncover patterns that matter in supply chain and healthcare operations.
 
 ## 📚 Projects
 
-- 🍔 [Food Delivery Analytics](https://github.com/prathiba-data/Food-Delivery-Analytics)
+- 🍔 [Food Delivery Analytics](https://github.com/prathiba-data/Food-Delivery-Analytics-using-SQL)
 - 🛒 [Customer Behaviour Analysis](https://github.com/prathiba-data/customer_behaviour_analysis)
 
 ## 🛠️ Tools
